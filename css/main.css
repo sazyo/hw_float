@@ -1,0 +1,20 @@
+.SERVICES{
+
+float :left;
+text-align: center;
+
+}
+.SERVICE{
+width: 25%;
+float :left;
+
+}
+
+i{
+background-color: yellow;
+    font-size: 50px;
+}
+.clearfix{
+
+    clear: both;
+}
